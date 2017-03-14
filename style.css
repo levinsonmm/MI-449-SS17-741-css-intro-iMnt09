@@ -1,0 +1,35 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+.city-description {
+  font-size: 15px;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  background-color: #F9F7F5;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  margin: 7px;
+}
+
+header, section {
+  background-color: white;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+h2 {
+  border-bottom-style: solid;
+  border-bottom-color: #DCB287;
+}
